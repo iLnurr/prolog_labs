@@ -1,1 +1,1 @@
-# prolog
+# prolog-labs
